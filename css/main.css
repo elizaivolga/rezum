@@ -627,15 +627,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     11%, 15% { content: "HELLO, WORLD!"; }
 
     28% { content: "HELLO, "; }
-    30% { content: "HELLO, В"; }
-    31% { content: "HELLO, ВГ"; }
-    33% { content: "HELLO, ВГТ"; }
-    35% { content: "HELLO, ВГТУ"; }
-    36%, 40%{ content: "HELLO, ВГТУ!"; }
-    41% { content: "HELLO, ВГТУ"; }
-    42% { content: "HELLO, ВГТ"; }
-    43% { content: "HELLO, ВГ"; }
-    44% { content: "HELLO, В"; }
+    30% { content: "HELLO, I"; }
+    31% { content: "HELLO, IT"; }
+    33% { content: "HELLO, IT!"; }
+    35% { content: "HELLO, IT!"; }
+    36%, 40%{ content: "HELLO, IT!"; }
+    41% { content: "HELLO, IT"; }
+    42% { content: "HELLO, I"; }
+    43% { content: "HELLO, "; }
+    44% { content: "HELLO,"; }
     45% { content: "HELLO,"; }
     46% { content: "HELL"; }
     47% { content: "HEL"; }
